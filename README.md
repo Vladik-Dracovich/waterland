@@ -1,12 +1,9 @@
 # WaterLand-C
 
-A minimal **C + OpenGL** water landscape demo that goes up to **Stage 3**:
+A very early C + OpenGL rendering of watery landscape.
+Everything is a work in progress, this is just pulled up for now and I'll slowly work on it as I go along.
 
-- **Stage 1**: Gerstner-wave water surface (vertex displacement + normals)
-- **Stage 2**: Depth-based absorption + refraction (scene color behind water + depth)
-- **Stage 3**: **Planar reflections** via a mirrored render pass into an FBO
-
-This is a clean, self-contained demo project (no engine).
+Don't download and expect this repo to run, as I need to still fix and work on alot. Anyone is free to take and use as they please from this.
 
 ## Dependencies (Linux)
 - GLFW
