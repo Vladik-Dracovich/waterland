@@ -1,4 +1,4 @@
-# Water Renderer — Milestone 1
+# Waterland
 
 A standalone Linux OpenGL water surface in C++20. Uses four animated Gerstner waves, analytic wave normals, directional lighting, Fresnel-style reflections, and a free-fly camera. The sky is currently a clear-color backdrop; real reflected scenery, foam, refraction, and infinite ocean tiles are future milestones.
 
@@ -28,4 +28,4 @@ WASD move; mouse look; Space rise; Left Ctrl descend; Left Shift move faster; Es
 
 ## Notes
 
-Requires an OpenGL 4.1+ context (uses GLSL 410). Designed to be extended into a general-purpose renderer. This project has not been run against your GPU/driver yet.
+Requires an OpenGL 4.1+ context (uses GLSL 410). Designed to be extended into a general-purpose renderer.
